@@ -37,13 +37,6 @@
 - **Database**: MySQL
 - **Development Environment**: Eclipse EE with Apache Tomcat server
 
-## Technologies Used
-
-- **Web Framework**: Java Servlets
-- **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL
-- **Development Tools**: Eclipse EE, Apache Tomcat
-
 ## Contributing
 
 As this is a student project developed for educational purposes, contributions are not expected. However, feedback and suggestions are welcome.
